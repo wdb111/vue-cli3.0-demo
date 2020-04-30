@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>从这里开始创建Vue项目</h1>
-    <p>{{nickName}}</p>
+    <div>{{nickName}}</div>
   </div>
 </template>
 
