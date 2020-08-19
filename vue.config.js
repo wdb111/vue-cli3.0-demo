@@ -41,7 +41,7 @@ module.exports = {
     // },
     devServer: { // 环境配置
         host: '0.0.0.0',
-        port: 8080,
+        port: 8081,
         https: false,
         hotOnly: false, //热更新（webpack已实现了，这里false即可）
         open: true, //配置自动启动浏览器
