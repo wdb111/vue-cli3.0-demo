@@ -1,6 +1,6 @@
 var Mock = require('mockjs')
 
-Mock.mock('selectData', 'post', {
+Mock.mock('getData', 'get', {
     data: {
         id: 1,
         username: 'admin',
