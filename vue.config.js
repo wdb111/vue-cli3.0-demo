@@ -26,18 +26,16 @@ module.exports = {
     },
     lintOnSave: false, // 是否在保存的时候检查
     productionSourceMap: false, // 生产环境是否生成 .map 文件
-    css: {
-        loaderOptions: { // css预设器配置项
-            less: {
-                javascriptEnabled: true
-            }
-        }
-    },
     // css: {
     //     extract: true,// 是否使用css分离插件 ExtractTextPlugin
     //     sourceMap: false,// 开启 CSS source maps
     //     loaderOptions: {},// css预设器配置项
     //     modules: false// 启用 CSS modules for all css / pre-processor files.
+    // loaderOptions: { // css预设器配置项
+    //     less: {
+    //         javascriptEnabled: true
+    //     }
+    // }
     // },
     devServer: { // 环境配置
         host: '0.0.0.0',
