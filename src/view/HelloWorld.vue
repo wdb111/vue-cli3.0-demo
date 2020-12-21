@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>从这里开始创建Vue项目</h1>
     <div>{{nickName}}</div>
-    <iframe id="ifa" ref="canvas" width="100%" height="1000" src="/pdf/web/viewer.html?file=/Git.pdf" frameborder="0" ></iframe>
+    <!-- <iframe id="ifa" ref="canvas" width="100%" height="1000" src="/pdf/web/viewer.html?file=/Git.pdf" frameborder="0" ></iframe> -->
   </div>
 </template>
 
