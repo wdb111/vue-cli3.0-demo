@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
-    <h1>从这里开始创建Vue项目</h1>
-    <div>{{nickName}}</div>
-    <!-- <iframe id="ifa" ref="canvas" width="100%" height="1000" src="/pdf/web/viewer.html?file=/Git.pdf" frameborder="0" ></iframe> -->
+    <!-- <h1>从这里开始创建Vue项目</h1>
+    <div>{{nickName}}</div> -->
+    <iframe id="ifa" ref="canvas" width="100%" height="100%" src="/pdf/web/viewer.html?file=/JavaScript权威指南(第6版)(中文版).pdf" frameborder="0" ></iframe>
   </div>
 </template>
 
